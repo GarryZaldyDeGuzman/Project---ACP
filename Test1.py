@@ -72,3 +72,21 @@ class Manhwa(Book):
 a = Manga("Manhwa","Solo Leveling", "geh", 500 )
 
 a.details()
+
+
+"""ManhwaTitle =["Solo Leveling", "Title2", "Title3", "Title4"]
+ManhwaAuthor = ["Author1", "Author2", "Author3", "Author4"]
+ManhwaPrice = ["Price1", "Price2", "Price3", "Price4"]
+
+
+ManhwaDict = {
+    "Manhwa1" : [ManhwaTitle[0], ManhwaAuthor[0], ManhwaPrice[0]],
+    "Manwa2" : [ManhwaTitle[1], ManhwaAuthor[1], ManhwaPrice[1]],
+    "Manhwa3" : [ManhwaTitle[2], ManhwaAuthor[2], ManhwaPrice[2]]
+}
+
+x = MannwhaDict["Manhwa1"]
+print(x)
+
+"""
+
