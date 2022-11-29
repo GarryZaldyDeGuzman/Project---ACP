@@ -1,4 +1,4 @@
-import os
+"""import os
 from time import sleep
 
 print("====================================")
@@ -33,6 +33,7 @@ elif (choice == 5):
     os.system('clear')
 else:
     print("error")
+    """
 
 class Book(object):
     def __init__(self,type):
