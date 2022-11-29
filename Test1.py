@@ -1,21 +1,38 @@
-"""choice = int(input("Enter a number: "))
-print(choice)
-"""
+import os
+from time import sleep
 
-"""def switch(choice):
-    if choice == 1:
-        pass
-    elif choice == 2:
-        pass
-    elif choice == 3:
-        pass
-    elif choice == 4:
-        pass
-    elif choice == 5:
-        pass
-    else:
-        pass
-"""
+print("====================================")
+print("1. Add a Book in the List...")
+print("2. Delete a Book in the List...")
+print("3. View all Book in the List...")
+print("4. Update a Book in the List...")
+print("5. Exit")
+print("====================================")
+print("\n")
+
+
+choice = int(input("Enter a number: "))
+sleep(1)
+os.system('clear')
+
+
+if (choice == 1):
+    print("add")
+    
+elif (choice == 2):
+    print("delete")
+    
+elif (choice == 3):
+    print("view")
+    
+elif (choice == 4):
+    print("update")
+    
+elif (choice == 5):
+    print("exit")
+    os.system('clear')
+else:
+    print("error")
 
 class Book(object):
     def __init__(self,type):
