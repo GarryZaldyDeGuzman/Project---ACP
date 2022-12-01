@@ -18,22 +18,20 @@ class BookList(Books):
             self.setBook_ID()
             self.setBook_Title()
             self.setBook_Author()
+            self.setBook_Type()
             self.setBook_Year()
-            self.setBook_Publisher()
             self.setNumber_CopiesAvailable()
-            self.set_PubDate()
 
             Book_ID = self.getBook_ID()
             Book_Title = self.getBook_Title()
             Book_Author = self.getBook_Author()
+            Book_Type = self.getBook_Type()
             Book_Year = self.getBook_Year()
-            Book_Publisher = self.getBook_Publisher()
             Number_CopiesAvailable = self.getNumber_CopiesAvailable()
-            Pub_Date = self.getPub_Date()
             status = self.status
             borrowers = self.borrowers
 
-            list_values = [Book_ID, Book_Author, Book_Year, Book_Publisher, Number_CopiesAvailable, Pub_Date, status, borrowers]
+            list_values = [Book_ID, Book_Author, Book_Type, Book_Year, Number_CopiesAvailable, status, borrowers]
 
             book_collection = self.addvalues_dict(book_collection, Book_Title, list_values)
             print("Book Updated Successfully")
