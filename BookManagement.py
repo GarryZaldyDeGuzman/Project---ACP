@@ -125,5 +125,6 @@ def main():
 
         else:
             print('-----Thank You For Visiting. Have a Nice Day..-----')
+            quit()
 
 main()
