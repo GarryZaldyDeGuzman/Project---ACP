@@ -11,9 +11,6 @@ class Books:
         def setBook_Author(self):
             self.Author = input("Enter the Book Author: ")
 
-        def setBook_Type(self):
-            self.Type = input("Enter the type of Book: ")
-
         def setBook_Year(self):
             self.Year = int(input("Enter the Book Publication Year: "))
 
@@ -27,10 +24,6 @@ class Books:
         def getBook_Author(self):
             Author= self.Author
             return Author
-
-        def getBook_Type(self):
-            Type = self.Type
-            return type
 
         def getBook_Year(self):
             Year = self.Year
