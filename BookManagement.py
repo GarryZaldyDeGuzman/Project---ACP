@@ -91,20 +91,12 @@ class BookList(Books):
 def main():
     booklist = BookList()
 
-    print("---------Welcome to Library Mananagement System---------")
-    print("--------------------------------------------------------")
-    print()
+    print("---------Welcome to Library Mananagement System---------\n--------------------------------------------------------\n")
 
     while (True):
-        print("--------Select an option from the list below--------")
-        print("----------------------------------------------------")
-        print()
+        print("--------Select an option from the list below--------\n----------------------------------------------------\n")
 
-        print('1. Add a Book in the Library.')
-        print('2. Remove a Book in the Library.')
-        print('3. Search a Book in the Library.')
-        print('4. Total Number of Books in the Library.')
-        print('5. Show All Books in the Library.')
+        print("""CHOOSE WHAT YOU WANT TO DO:-\n1. Add a Book in the Library.\n2. Remove a Book in the Library.\n3. Search a Book in the Library.\n4. Total Number of Books in the Library.\n5. Show All Books in the Library.\n6. Exit the library.\n""")
 
         order = int(input('Select an Option in the Following:'))
 
@@ -122,9 +114,12 @@ def main():
 
         elif (order==5):
             print(book_collection)
+        
+        elif (order==6):
+            print('-----Thank You For Visiting. Have a Nice Day..-----')
+            quit()
 
         else:
-            print('-----Thank You For Visiting. Have a Nice Day..-----')
             quit()
 
 main()
