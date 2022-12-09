@@ -9,7 +9,7 @@ Table of Content
 * [Aims](#aims)
 * [Usage](#usage)
 * [How it Works](#how-it-works)
-* [Link] (#link)
+* [Link](#link)
 
 
 
