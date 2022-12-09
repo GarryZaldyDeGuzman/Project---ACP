@@ -9,7 +9,7 @@ Table of Content
 * [Aims](#aims)
 * [Usage](#usage)
 * [How it Works](#how-it-works)
-* [Link](#link)
+* [Link] (#link)
 
 
 
@@ -48,6 +48,6 @@ Main Menu:
 
 
 ### Link
-Youtube Link:
-
-https://youtu.be/5gVwQG2klcc
+    https://youtu.be/5gVwQG2kIcc
+    or
+    https://www.youtube.com/watch?v=5gVwQG2kIcc
