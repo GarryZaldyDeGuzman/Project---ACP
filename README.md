@@ -9,6 +9,8 @@ Table of Content
 * [Aims](#aims)
 * [Usage](#usage)
 * [How it Works](#how-it-works)
+* [UML Diagram](#uml-diagram)
+* [Link](#link)
 
 
 
@@ -46,5 +48,14 @@ Main Menu:
 4. In the `total_no_of_books` will show the user the `length` or the `size` of how many books are `stored` in the book collection.
 5. In `book_collection` it will `show all` the books that are in the dictionary.
 
+### UML Diagram
 
+![316274595_3289375104638487_5349102812592374969_n](https://user-images.githubusercontent.com/112869392/206854878-7593aaf0-c829-468e-8f1c-9f034cc76d1d.png)
+
+
+### Link
+
+To Visit the Video:
+- [https://youtu.be/5gVwQG2kIcc]
+- [https://www.youtube.com/watch?v=5gVwQG2kIcc]
 
