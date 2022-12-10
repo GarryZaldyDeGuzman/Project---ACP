@@ -9,7 +9,7 @@ Table of Content
 * [Aims](#aims)
 * [Usage](#usage)
 * [How it Works](#how-it-works)
-* [Link](#link)
+
 
 
 
@@ -47,7 +47,4 @@ Main Menu:
 5. In `book_collection` it will `show all` the books that are in the dictionary.
 
 
-### Link
-    https://youtu.be/5gVwQG2kIcc
-    or
-    https://www.youtube.com/watch?v=5gVwQG2kIcc
+
