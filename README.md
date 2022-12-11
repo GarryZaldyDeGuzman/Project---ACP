@@ -4,7 +4,7 @@
 
 
 Table of Content
-========
+================
 
 * [Aims](#aims)
 * [Usage](#usage)
@@ -12,14 +12,14 @@ Table of Content
 * [UML Diagram](#uml-diagram)
 * [Link](#link)
 
-
+---
 
 ### Aims
 This program aims to have a main menu system to help the user what to do in a Library System that contains different set of choices such as update or insert a book that needs the user input to have a title,author,year and number if copies available.
 
+---
 
 ### Usage
----
 Start the program simply by `running it`
 
 `Book Management System` was built to let the user have much efficient way to know what are the books he added in the dictionary.
@@ -37,8 +37,8 @@ Main Menu:
   --total_no_of_books      Shows how many books you add in the dictionary.
   --book_collection        Shows list of Books added in the dictionary with 
                            its details.
-                           
-```
+
+
 
 ### How it Works
 1. In the `store_collection` it prompts the user to enter various `book details` such as `title`, `author`, `publishing year` and `number of copies`.
@@ -47,13 +47,14 @@ Main Menu:
 4. In the `total_no_of_books` will show the user the `length` or the `size` of how many books are `stored` in the book collection.
 5. In `book_collection` it will `show all` the books that are in the dictionary.
 
-### UML Diagram
 
+
+### UML Diagram
 ![316274595_3289375104638487_5349102812592374969_n](https://user-images.githubusercontent.com/112869392/206854878-7593aaf0-c829-468e-8f1c-9f034cc76d1d.png)
 
 
-### Link
 
+### Link
 To Visit the Video:
 - [https://youtu.be/5gVwQG2kIcc]
 - [https://www.youtube.com/watch?v=5gVwQG2kIcc]
