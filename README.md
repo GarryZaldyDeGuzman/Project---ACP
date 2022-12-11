@@ -11,6 +11,7 @@ Table of Content
 * [How it Works](#how-it-works)
 * [UML Diagram](#uml-diagram)
 * [Link](#link)
+* [Self Assessment] (#self-assessment)
 
 
 
@@ -58,4 +59,20 @@ Main Menu:
 To Visit the Video:
 - [https://youtu.be/5gVwQG2kIcc]
 - [https://www.youtube.com/watch?v=5gVwQG2kIcc]
+
+### Self Assessment
+
+By: Dimaano, Maicah V.
+Code Reusability
+- 
+Maintainability
+- 
+Scalability
+- 
+Execution
+- 
+Originality
+- 
+Overall Impression
+- 
 
