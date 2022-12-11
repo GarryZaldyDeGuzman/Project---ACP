@@ -38,7 +38,7 @@ Main Menu:
   --book_collection        Shows list of Books added in the dictionary with 
                            its details.
 
-
+```
 
 ### How it Works
 1. In the `store_collection` it prompts the user to enter various `book details` such as `title`, `author`, `publishing year` and `number of copies`.
