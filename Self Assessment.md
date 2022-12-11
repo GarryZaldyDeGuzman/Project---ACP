@@ -1,6 +1,5 @@
 # Self Assessment
 
-By: Dimaano, Maicah V.
 
 Code Reusability - 4 Practices DRY (Do no Repeat Yourself) method excellently, leading to a shorter and cleaner program structure.
 
